@@ -6,7 +6,7 @@ perform this operation in place.)
 EXAMPLE
 Input: "Mr John Smith ", 13
 Output: "Mr%20John%20Smith"
-Hints: #53, # 118
+Hints: #53, # 118 
 """
 import check as check
 #my first thought but didnt use length

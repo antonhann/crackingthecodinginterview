@@ -6,7 +6,7 @@ is a rearrangement of letters. The palindrome does not need to be limited to jus
 EXAMPLE
 Input: Tact Coa
 Output: True (permutations: "taco cat", "atco eta", etc.)
-Hints: #106, #121, #134, #136
+Hints: #106, #121, #134, #136 
 """
 import collections
 import check as check

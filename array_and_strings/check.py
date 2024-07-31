@@ -1,7 +1,6 @@
 def checkOneParam(cases, expected_results, function):
     isCorrect = True
     for i in range(len(cases)):
-        print(function(cases[i]), expected_results[i])
         if function(cases[i]) != expected_results[i]:
             isCorrect = False
             break
